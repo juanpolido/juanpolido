@@ -3,36 +3,9 @@
   <em>Designer gráfico e desenvolvedor. Marcas que precisam ser vistas, sistemas que não podem ser invadidos.</em>
 </p>
 
-```ansi
-[38;5;141m  ..    ..  ...  ..::. : .-:=:    .:  ::[0m   [38;5;141mjuan[0m[38;5;244m@[0m[38;5;141mjpdigital[0m [38;5;244m───────────────────────────────────[0m
-[38;5;141m-: %=+: *-::.=+. :--+:. ... =@%= -=.+*..[0m   [38;5;177mHost:                   [0m[38;5;117mParapuã — São Paulo, Brasil[0m
-[38;5;141m++=:%:=:@-.:  --    ..::-. .-%@#.: .+-::[0m   [38;5;177mFunção:                 [0m[38;5;117mDesigner Gráfico & Desenvolvedor[0m
-[38;5;141m@%@===-@=               -.  :#@%.:-: :#-[0m   [38;5;177mMarca:                  [0m[38;5;117mJP Digital — autônomo desde fev/2025[0m
-[38;5;141m@@@@*-@*                -..+-%%=-=-:.:-*[0m   [38;5;177mFormação:               [0m[38;5;117mTéc. Desenvolvimento de Sistemas[0m
-[38;5;141m@@@@@#+     ..:::.      .=+@@#%*#=.:-*=.[0m   [38;5;177mInstituição:            [0m[38;5;117mEtec Amin Jundi — 2022/2024[0m
-[38;5;141m@@@@@*.    :-====-:.    .:=@@@%*##==:#@=[0m   [38;5;177mEditor:                 [0m[38;5;117mVS Code, Figma, Illustrator, Photoshop[0m
-[38;5;141m@@@@@=:   .-==++=--:      .#@#--+##*+*#%[0m   
-[38;5;141m%%%@%-.   :--:-===--:      #@+:=*#%***#%[0m   [38;5;141mStack [0m[38;5;244m─────────────────────────────────────────[0m
-[38;5;141m@@@@@+.  :..   ==.  ..    =@==*%%%#%*###[0m   [38;5;177mLinguagens, Código:     [0m[38;5;117mPython, JavaScript, TypeScript[0m
-[38;5;141m----=+: +=:.. :==:  ..== .*--=*@%%%%@%%#[0m   [38;5;177mLinguagens, Web:        [0m[38;5;117mHTML, CSS, React, Vite, Tailwind[0m
-[38;5;141m     *-.%+==-=+=+=---=+%.=.   =@%%%@@@%#[0m   [38;5;177mLinguagens, Design:     [0m[38;5;117mFigma, Illustrator, Photoshop[0m
-[38;5;141m-:.  *+*%++====-====+++%=:    +@%%%@@%##[0m   [38;5;177mLinguagens, Humano:     [0m[38;5;117mPortuguês, Inglês[0m
-[38;5;141m-.   ***#+=---...:====+#+     =@##%%%%##[0m   
-[38;5;141m*    *%--=-.   .   .-==*=     =@##*****+[0m   [38;5;141mSegurança da Informação [0m[38;5;244m───────────────────────[0m
-[38;5;141m@=   *%=-::--:...::::::=.     +%*++=+#%%[0m   [38;5;177mInteresse:              [0m[38;5;210mAppSec, análise de logs, hardening[0m
-[38;5;141m@#   #%*-.:::-:..--::.-       *%#*#%%%%@[0m   [38;5;177mPrática:                [0m[38;5;210mHashing com salt, anti-timing attack[0m
-[38;5;141m#=:+**%%+:.  .....   =%+  - -=---#%:#@@%[0m   [38;5;177mRepos:                  [0m[38;5;210mverificador-senha, login-fail-report[0m
-[38;5;141m*+@@@@**+=-.       .=@@#-%@%@*-++%% *%#-[0m   
-[38;5;141m@@@%%%@#+--::.....-=%%%#@@@%*#@@%%@- +==[0m   [38;5;141mConstruindo agora [0m[38;5;244m─────────────────────────────[0m
-[38;5;141m#%%%%%%@@#+---::--=+@@@%@%@*%@*. +#-  ..[0m   [38;5;177mATLAS:                  [0m[38;5;253mDashboard financeiro local-first[0m
-[38;5;141m*#%%%%%#%@@%*=--===###@@%++#*-   *+  =#*[0m   [38;5;177mJP Digital:             [0m[38;5;253mIdentidade visual & landing pages[0m
-[38;5;141m####%%%%%%@@@@#==-#@+-@%%%%%=+=  +++::#@[0m   [38;5;177mNovelo:                 [0m[38;5;253mEm desenvolvimento[0m
-[38;5;141m%%%%%%%%%%@@@@@%=+@@*.*@%@@@@@@  **+*+%@[0m   
-[38;5;141m%%%%%%%%%%%%@@**#**@%-:#@%@@@@@%+%%%%#*#[0m   [38;5;141mContato [0m[38;5;244m───────────────────────────────────────[0m
-[38;5;141m%%%%%%%%%%%#%%+=*#%#%#--@%%@@@@@%*+####=[0m   [38;5;177mE-mail:                 [0m[38;5;114mjpramos01@outlook.com[0m
-[38;5;141m                                        [0m   [38;5;177mLinkedIn:               [0m[38;5;114min/juan-polido-ramos[0m
-[38;5;141m                                        [0m   [38;5;177mInstagram:              [0m[38;5;114m@jp_rammos[0m
-```
+<p align="center">
+  <img src="assets/neofetch.svg" alt="juan@jpdigital" width="855" />
+</p>
 
 ---
 
