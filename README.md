@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/neofetch.svg" alt="juan@jpdigital" width="855" />
+  <img src="assets/neofetch.svg" alt="juan@jpdigital" width="949" />
 </p>
 
 ---
@@ -51,10 +51,24 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpolido&layout=compact&hide_border=true&bg_color=16161e&title_color=b48ef9&text_color=c0caf5" />
 </p>
 
+---
+
+### 🟣 JP DIGITAL
+
+Agência de design digital e desenvolvimento web. Identidade visual, conteúdo, landing pages, sites institucionais, sistemas web e SaaS — da estratégia à publicação.
+
+| Cliente | Entrega |
+|---|---|
+| [**Alana Julia Motta**](https://www.alanajuliamotta.adv.br/) | Identidade visual completa, conteúdo e landing page |
+| **Shammah Garage** | Identidade visual e linha de conteúdo |
+| **Garage Films** | Rebranding, identidade visual e peças promocionais |
+| **Softlab** | UX/UI e protótipo de gestão para laboratório |
+
 <p align="center">
+  <a href="https://jpdigital.dev.br"><img src="https://img.shields.io/badge/jpdigital.dev.br-301738?style=for-the-badge&logo=googlechrome&logoColor=b48ef9" /></a>
+  <a href="https://www.instagram.com/jp.digitaal/"><img src="https://img.shields.io/badge/@jp.digitaal-16161e?style=for-the-badge&logo=instagram&logoColor=b48ef9" /></a>
   <a href="https://www.linkedin.com/in/juan-polido-ramos"><img src="https://img.shields.io/badge/LinkedIn-16161e?style=for-the-badge&logo=linkedin&logoColor=b48ef9" /></a>
-  <a href="https://instagram.com/jp_rammos"><img src="https://img.shields.io/badge/Instagram-16161e?style=for-the-badge&logo=instagram&logoColor=b48ef9" /></a>
-  <a href="mailto:jpramos01@outlook.com"><img src="https://img.shields.io/badge/E--mail-16161e?style=for-the-badge&logo=microsoftoutlook&logoColor=b48ef9" /></a>
+  <a href="mailto:juanpolidodigital@gmail.com"><img src="https://img.shields.io/badge/E--mail-16161e?style=for-the-badge&logo=gmail&logoColor=b48ef9" /></a>
 </p>
 
-<p align="center"><sub><strong>JP Digital</strong> — identidade visual, web e presença digital · Parapuã, SP</sub></p>
+<p align="center"><sub><strong>JP DIGITAL®</strong> — design com direção, código com propósito · Parapuã, SP</sub></p>
